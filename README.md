@@ -1,9 +1,4 @@
-Atharva Desai: 16010121042
-Pratham Dhruv: 16010121047
-
 Football Management Website
-
-Problem Statement: To make a football management website to maintain the players’ data of different teams.
 
 Framework Used: The website was built using HTML, CSS, Javascript,
 Bootstrap and PHP.
@@ -27,7 +22,3 @@ How does the system work?
 5.	The user can view Players’ data on the Display page.
 6.	The user can also book his ticket for a particular match that he wishes to see by logging in with his correct credentials on the book page.
 7.	The user gets his ticket copy on the ticket copy page.
- 
-References :
-https://github.com/Prathhzz7/webdev
-
